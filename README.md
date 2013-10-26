@@ -1,5 +1,5 @@
 
-XlateMeta
+XslateMeta
 ============
 vim syntax highlight for [Text::Xslate::Syntax::Metakolon] (https://metacpan.org/pod/Text::Xslate::Syntax::Metakolon)
 
